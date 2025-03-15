@@ -1,5 +1,6 @@
 import { Controller, Get } from '@nestjs/common';
 import { AppService } from './app.service';
+// import { IUser } from '@purple/interfaces';
 
 @Controller()
 export class AppController {
